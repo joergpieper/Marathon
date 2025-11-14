@@ -139,12 +139,6 @@ jobs:
           # Extra args to be passed to the trufflehog CLI
           extra_args: --exclude-paths=.truffleignore --no-verification
 
-
-
-
-
-
-
   # ======================================================
 
 
